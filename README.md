@@ -1,12 +1,10 @@
-# 🚧 Employee Attrition Prediction
-
-> **Project Status:** Work in Progress
+# Employee Attrition Prediction
 
 ## 📌 Project Overview
 
-This project is created by me as a personal Machine Learning project to predict whether an employee is likely to leave the company based on factors such as age, monthly income, job role, distance from home, environment satisfaction, and other employee-related attributes.
+This project was created by me as a personal Machine Learning classification project that predicts whether an employee is likely to leave a company based on factors such as age, monthly income, job role, distance from home, environment satisfaction, and other employee-related attributes.
 
-Employee attrition is one of the major challenges faced by organizations. The project also includes Exploratory Data Analysis (EDA) to identify patterns and provide business insights that may help improve employee retention.
+Employee attrition is a major challenge for organizations because it can lead to increased recruitment costs, reduced productivity, and loss of experienced employees. This project includes Exploratory Data Analysis (EDA) to uncover patterns and generate business insights that may help organizations improve employee retention.
 
 ---
 
@@ -14,9 +12,9 @@ Employee attrition is one of the major challenges faced by organizations. The pr
 
 * Perform data cleaning and preprocessing.
 * Explore employee attrition using visualizations.
-* Taking business insights from the data.
-* Build a Machine Learning model to predict employee attrition.
-* Evaluate model performance using classification metrics.
+* Generate business insights from the data.
+* Build multiple Machine Learning models to predict employee attrition.
+* Compare model performance using classification metrics.
 
 ---
 
@@ -39,19 +37,27 @@ Employee attrition is one of the major challenges faced by organizations. The pr
 * Exploratory Data Analysis (EDA)
 * Feature Encoding
 * Train-Test Split
-* Logistic Regression Model
+* Logistic Regression
+* Decision Tree
+* Random Forest
 * Model Evaluation
+* Model Comparison
+* Feature Importance Analysis
 
 ---
 
-## 📈 Current Results
+## 📈 Project Highlights
 
-The current version includes:
+The project includes:
 
 * ✅ Data Cleaning
-* ✅ Exploratory Data Analysis
+* ✅ Exploratory Data Analysis (EDA)
 * ✅ Business Insights
 * ✅ Logistic Regression
+* ✅ Decision Tree
+* ✅ Random Forest
+* ✅ Model Accuracy Comparison
+* ✅ Feature Importance Analysis
 * ✅ Accuracy Score
 * ✅ Confusion Matrix
 * ✅ Classification Report
@@ -61,18 +67,17 @@ The current version includes:
 ## 🚀 Future Improvements
 
 * Feature Scaling
-* Feature Importance Analysis
 * ROC-AUC Curve
 * Cross Validation
-* Model Comparison (Decision Tree & Random Forest)
 * Hyperparameter Tuning
 * Model Saving using Joblib
+* Model Deployment using Streamlit or Flask
 
 ---
 
 ## 📁 Project Structure
 
-```text
+```
 Employee-Attrition-Prediction/
 │── Employee_Attrition_Prediction.ipynb
 │── data/
@@ -85,7 +90,7 @@ Employee-Attrition-Prediction/
 
 ## 📌 Dataset
 
-This project uses an employee attrition dataset for educational and machine learning purposes.
+This project uses an employee attrition dataset for educational purposes to practice data analysis and machine learning techniques.
 
 ---
 
@@ -93,7 +98,7 @@ This project uses an employee attrition dataset for educational and machine lear
 
 **Arth Jain**
 
-Aspiring Data Scientist (Fresher)
+**Aspiring Data Scientist (Fresher)**
 
 Python | SQL | Pandas | NumPy | Data Analysis | Machine Learning Enthusiast
 
